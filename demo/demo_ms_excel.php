@@ -37,6 +37,7 @@ $x_dt = mktime(13,0,0,2,15,2010);
 $x_bt = true;
 $x_bf = false;
 $x_delete = 1;
+$x_formula = "SUM(E20:E22)";
 
 // -----------------
 // Load the template
